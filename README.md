@@ -20,7 +20,7 @@
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="right" alt="Felipe-mob"  src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-1216.gif">
+   <img align="right" alt="Felipe-mob"  src="https://steamuserimages-a.akamaihd.net/ugc/960846388808987640/78252C455855F32284386D592A69A9A8126841C5/">
 </div>
 
 ![](https://github.com/camilafernanda/camilafernanda/raw/output/github-contribution-grid-snake.svg)
